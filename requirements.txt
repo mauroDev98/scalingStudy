@@ -1,0 +1,2 @@
+numpy>=1.24
+matplotlib>=3.7   # solo para src/plot_curves.py; no hace falta en la Raspberry Pi

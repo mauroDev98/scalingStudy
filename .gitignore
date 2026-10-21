@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# Se regeneran con prepare_data.py (el test, vocab, stats y test.sha256 SÍ se versionan)
+data/clean/train.npz
+data/clean/val.npz
