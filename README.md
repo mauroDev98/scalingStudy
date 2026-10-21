@@ -89,3 +89,4 @@ Cada integrante lleva su bitácora semanal en `report/bitacora_<nombre>.md` (pla
 | Model lead | |
 | Pi y tools lead | |
 | Evaluación y reporte lead | |
+<img width="479" height="640" alt="imagen" src="https://github.com/user-attachments/assets/372d64c9-cbb8-4914-85f4-3d89b3844e03" />
