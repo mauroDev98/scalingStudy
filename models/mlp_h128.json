@@ -1,0 +1,11 @@
+{
+  "hidden": 128,
+  "params": 495416,
+  "epochs": 8,
+  "batch": 256,
+  "lr": 0.002,
+  "seed": 0,
+  "train_time_s": 153.2,
+  "final_train_loss": 3.8451,
+  "final_val_loss": 5.1923
+}

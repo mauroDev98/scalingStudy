@@ -1,0 +1,33 @@
+{
+  "context": 3,
+  "vocab_size": 3000,
+  "files": {},
+  "train": {
+    "words": 179489,
+    "examples": 179480,
+    "unk_pct": 13.46,
+    "files": {
+      "Germana.txt": 61504,
+      "HistoriaNaturalyMoralDeLasIndias.txt": 94333,
+      "LaNarizDeUnNotario.txt": 23652
+    }
+  },
+  "val": {
+    "words": 19945,
+    "examples": 19936,
+    "unk_pct": 17.69,
+    "files": {
+      "Germana.txt": 6834,
+      "HistoriaNaturalyMoralDeLasIndias.txt": 10482,
+      "LaNarizDeUnNotario.txt": 2629
+    }
+  },
+  "test": {
+    "words": 2716,
+    "examples": 2713,
+    "unk_pct": 27.28,
+    "files": {
+      "MisticasPoesias.txt": 2716
+    }
+  }
+}

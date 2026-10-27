@@ -19,7 +19,10 @@ Reglas:
 ## Registro de textos (agregar una fila por archivo)
 | Archivo | Carpeta | Título | Autor | Año de muerte del autor | URL de descarga | Quién lo descargó | Qué se quitó a mano |
 |---|---|---|---|---|---|---|---|
-| (ejemplo) `ejemplo.txt` | train | | | | | | |
+| `LaNarizDeUnNotario.txt` | train | La nariz de un notario | Edmond About (traducción de Carlos de Pineda) | 1885 | https://www.gutenberg.org/ebooks/26404 | Mauro | Nada; `prepare_data.py` elimina automáticamente el encabezado y la licencia de Gutenberg. |
+| `Germana.txt` | train | Germana | Edmond About (traducción de Tomás Orts-Ramos) | 1885 | https://www.gutenberg.org/ebooks/29640 | Mauro | Nada; `prepare_data.py` elimina automáticamente el encabezado y la licencia de Gutenberg. |
+| `HistoriaNaturalyMoralDeLasIndias.txt` | train | Historia natural y moral de las Indias (vol. 1 de 2) | José de Acosta | 1600 | https://www.gutenberg.org/ebooks/70219 | Mauro | Nada; `prepare_data.py` elimina automáticamente el encabezado y la licencia de Gutenberg. |
+| `MisticasPoesias.txt` | test | Místicas; poesías | María Raquel Adler | Por confirmar | https://www.gutenberg.org/ebooks/61415 | Mauro | Nada; `prepare_data.py` elimina automáticamente el encabezado y la licencia de Gutenberg. |
 
 ## Conteos reales (copiar de `data/clean/stats.json` después de `prepare_data.py`)
 | Conjunto | Palabras | Ejemplos | % palabras desconocidas |
